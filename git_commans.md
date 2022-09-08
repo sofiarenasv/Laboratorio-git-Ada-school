@@ -19,3 +19,4 @@ git commit: sirve para guardar los cambios hechos en la rama local, además de q
 git push: sirve para subir los cambios a repositorio remoto
 
 git merge: sirve para unir ramas
+:D
